@@ -1,0 +1,45 @@
+.mp{
+text-align: right;
+}
+button{
+    padding: 10px;
+    border-radius: 20px;
+    border-color: blue;
+}
+button:hover{
+    color: white;
+    background-color: blue;
+}
+.google{
+    text-align:center;
+    font-size: 50px;
+    font-display: 30%;
+}
+.m{
+text-align: center;
+padding:4%;
+font-size: 40%;
+}
+.mn{
+    text-align: center;
+    font-size: 40%;
+}
+.mpn{
+    text-align: right;
+}
+.n{
+    padding: 3%;
+}
+.nm{
+    text-align: center;
+}
+input{
+    width: 50%;
+    padding: 20px;
+    border-radius: 20px;
+    border-color: rgb(165, 145, 145);
+}
+.submit{
+    display: flex;
+    justify-content: center;
+}
